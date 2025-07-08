@@ -1,0 +1,4 @@
+ls -> lista os arquivos na pasta.
+ls -a -> listas todos os arquivos na pasta, incluindo arquivos ocultos.
+cd -> muda de pasta.
+rm -> remove um arquivo ou pasta.
